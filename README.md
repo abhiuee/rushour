@@ -24,3 +24,6 @@ Here column 1, means the orientation of car, if 'h' then car can only move right
 ### Initial Game
 ![Initial Game Image](/images/initial.png)
 
+### Success
+![Success Image](/images/success.png)
+
